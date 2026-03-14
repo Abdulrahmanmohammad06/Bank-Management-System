@@ -56,4 +56,4 @@ The system allows the user to:
 - View total balances in the system
 
 ## Author
-Computer Science Student
+Abdulrahman Hussinat : Computer Science Student
